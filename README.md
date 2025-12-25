@@ -11,5 +11,3 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg "width="40" height="40"/>&nbsp;
 </div>
 
-### :fire: My Stats :
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=maxplay-2&theme=dark&locale=ru&mode=weekly" alt="GitHub Streak" /></a>
