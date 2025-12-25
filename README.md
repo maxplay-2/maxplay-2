@@ -12,3 +12,4 @@
 </div>
 
 ### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=maxplay-2&theme=dark&locale=ru&mode=weekly)](https://git.io/streak-stats)
